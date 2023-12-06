@@ -105,6 +105,7 @@ li, .btn {
     picture img {
         height: 100%;
         border-radius: 1.5rem 0 0 1.5rem;
+        object-fit: cover;
     }
 
     .container article:last-child {
